@@ -9,6 +9,6 @@ entries:
     name: i4q-demo-helm
     type: application
     urls:
-    - https://olegsternbergibm.github.io/i4q-demo-deployment-helm-repo/i4q-demo-helm-0.1.0.tgz
-    version: 0.1.0
+    - https://olegsternbergibm.github.io/i4q-demo-deployment-helm-repo/i4q-demo-helm-0.2.0.tgz
+    version: 0.2.0
 generated: "2022-02-27T20:18:37.655382+02:00"
